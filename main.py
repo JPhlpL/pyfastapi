@@ -15,7 +15,7 @@ async def get(desc: str):
 @app.post("/")
 #use class item basemodel for post
 def post(item:Item):
-    return {"message":"post", "item_name": item.item_name}
+    return {"message": {"first": ["hello","amigo"], "second": "hola"}, "item_name": item.item_name}
 
 
 @app.put("/{item}")
