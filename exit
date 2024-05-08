@@ -1,0 +1,15 @@
+[33mcommit c912f5e6b1301cd96d357cb6dc74d6fda66dc5d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: IT.Sysdev.Philip <141041109+ITSysDev0@users.noreply.github.com>
+Date:   Wed May 8 20:06:09 2024 +0800
+
+    1. Python -m venv venv
+    
+    2. Pip Install fastapi decouple supabase sqlalchemy pymysql uvicorn[standard]
+
+[33mcommit 4d38ed64340cc3fc66c011759e42cfd495344565[m
+Author: IT.Sysdev.Philip <141041109+ITSysDev0@users.noreply.github.com>
+Date:   Wed May 8 20:04:01 2024 +0800
+
+    1. Python -m venv venv
+    
+    2. Pip Install fastapi decouple supabase sqlalchemy pymysql
