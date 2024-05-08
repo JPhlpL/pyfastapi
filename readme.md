@@ -2,5 +2,5 @@
 pip install fastapi uvicorn[standard] sqlalchemy pymsql decouple supabase 
 uvicorn main:app --reload --port=5000 (if you want to have port number)
 
-a
+
 ```
