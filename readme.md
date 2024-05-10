@@ -5,5 +5,5 @@ For Installation: pip install fastapi uvicorn[standard] sqlalchemy pymsql decoup
 
 uvicorn main:app --reload --port=5000 (if you want to have port number)
 
-
+if error (python -m pip install --upgrade --force-reinstall pip)
 ```
